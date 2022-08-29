@@ -1,4 +1,4 @@
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/Image.jpg?raw=true)
+![alt text](https://github.com/Rox3/candlestick-chart-using-bokeh/blob/main/Image.png?raw=true)
 
 
 
